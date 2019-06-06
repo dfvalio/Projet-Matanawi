@@ -1,0 +1,137 @@
+Liste de structures des mots simples:
+VCVVCV
+CV
+CVCVVCV
+VCV
+CVV
+VVCVCV
+VCVCVCV
+VCVGVCV
+VV
+V
+CVCVCVCVCC
+CVCV
+GVCVCVCV
+GVCV
+VGV
+CVGVCV
+GVVCV
+CVCVV
+CVCVVV
+GVCVCV
+VCVCV
+VCVGV
+CVCVCV
+GVGCV
+CVCVCVCV
+VCGV
+VVCV
+CVCVGV
+VGVCV
+CVVGV
+CVVCVGV
+CVVVCV
+CVCVCVGV
+CVVCVCC
+CVCVC
+CVCVVCVV
+CVCVVCVC
+GVCCVCV
+CVGV
+GVGV
+GVCVCVV
+CVCVCC
+CVCVCVV
+CVVCV
+CCVCVV
+VGVGV
+VCVCVCC
+VCVCVC
+CVCVGVV
+CVCGV
+GVGVCV
+GVV
+VCVCVCVC
+VCVCVGV
+VVCCV
+CVVV
+VCVC
+CVGVV
+CVVVV
+GVCVV
+GVCVCVCVV
+CVVCVVCV
+VCVCVCCVGV
+GVCVVCVCV
+VCVCVCVCV
+CVGVCVVCV
+CVVCVCV
+CVCVGVCV
+VCVCVGVCV
+CVCVCVGVCV
+VCVCVV
+Analyse du nombre de syllabes (nb voyelles) pour les mots simples
+Nombre de mots simples:
+273
+Nombre maximum de syllabes dans les mots simples:
+5
+Nombre de mots avec 1 syllabe:
+13
+Nombre de mots avec 2 syllabes:
+113
+Nombre de mots avec 3 syllabes:
+93
+Nombre de mots avec 4 syllabes:
+43
+Nombre de mots avec 5 syllabes:
+11
+nb mots CC: 10
+['turusikabm', 'ʧʊakʊbm', 'jatrupi', 'mɨrɨbm', 'mɨrebn', 'trarɨa', 'ʊrurəhm', 'ɨuɳho', 'inetaptewa', 'amuri taptewa']
+nb mots CCC: 0
+[]
+nb mots VV: 112
+['ɲatu zɨ oᴐ', 'apa zi jaa', 'aketu zi jaa', 'aritʊ zɨaritᴐ zi', 'inίinέ', 'atahu zɨ oᴐ', 'tuʃi ji jaa', 'ɲaru zɨ jaa', 'mõzeaʃi', 'mõseaʃi', 'mapɨa sa', 'mɨĩ', 'uamuro', 'ua', 'ua', 'piruari', 'jaʊʃi', 'ua risi', 'raruã', 'rituaã', 'manaũ', 'aã', 'juimã', 'parəa', 'oᴐ', 'ua ʧisᴐ inί', 'uãpa', 'ᴐi apɨ iʊn', 'mapάã zɨ', 'mapɨã zɨ', 'uaĩ jĩ', 'maiwa', 'tuʃau', 'ʧuenajã', 'ʧueanã', 'ʧʊakʊbm', 'piriahaĩ', 'tapakara itoebehẽ', 'tupiokon', 'ma papãa zɨ', 'jatamuã', 'koʃurai', 'paiʃi', 'rɨnĩ vojuã', 'uamiʃᴐ', 'matujaa awɨtamiί', 'trarɨa', 'uã', 'matujaa', 'muita', 'kaseari', 'jaa', 'ʧipearɨ', 'ʃipiari', 'wararau', 'kaiwã', 'kaĩwã', 'rʊãʃi', 'ɨũhᴐ', 'ɨuɳho', 'ʧipɨɨ', 'touã', 'ai', 'ai', 'ɨ jaa', 'rʊasi', 'ʧiwaɨ', 'kuimã i', 'koimɨ', 'kaĩuã', 'kajuã', 'jipaã', 'watoronaã', 'sauraĩte', 'wakɨuramί', 'wakɨuramί', 'ua zɨwa zɨ', 'kaipa zi', 'koĩʃi ji', 'uanί', 'kaipa zi', 'kaipasĩ zɨ', 'ʃewɨteapa', 'ii jɨ', 'uamiʃo', 'meapaʃa', 'haavi', 'meapaʃa jiipa', 'haiwa zɨ', 'ateãsɨ', 'juimã kizi jakisi', 'ɨahuhũ', 'nazi puά', 'roo nãro', 'parəa pa', 'niipa', 'parəa zɨ', 'hina parəa', 'haã', 'hɨzi hua miʃaru', 'huɨ', 'hʊɨ', 'maĩ hʊa ɲã', 'ajoa miʃa rʊ', 'huisɨ', 'hʊa ru', 'hua mi taanɨ', 'rɨwɨ kari hʊa nĩ', 'awiʃea tu', 'maĩ', 'aʧuare wuisɨ', 'utuhuã']
+nb mots VVV: 5
+['rituaã', 'uaĩ jĩ', 'ʧueanã', 'touã', 'kaĩuã']
+nb mots VVVV: 1
+['kaĩuã']
+nb mots GV: 163
+['apa zi jaa', 'aketu zi jaa', 'api ji ʃisa', 'atura paʃi jɨ', 'iʃi ji hᴐ', 'miʃi jɨ', 'tuʃi ji', 'tuʃi ji jaa', 'ɲaru zɨ jaa', 'api ji', 'iʃi jɨ', 'apiwari', 'waʃupiʃi', 'wiriʃãru', 'apɨ waru', 'wɨsa', 'aja', 'kajari', 'apɨ wakɨramĩ', 'jaʊʃi', 'apɨ rimawᴐ', 'wiʃi', 'waʃupiʃi wanĩ', 'jamãru', 'wɨsa rɨ', 'anawa', 'awɨ', 'wakɨsi', 'wata', 'jaʃi', 'juimã', 'wajpɨ', 'aja miʃiʃᴐ inί', 'igwa', 'api ji', 'pɨnuwɨ', 'uaĩ jĩ', 'awanέ', 'namɨpa wa zɨ', 'noji sɨ', 'japɨ pa hina', 'awanã', 'ja zɨ', 'ijί', 'maiwa', 'ʧuenajã', 'matanawɨ', 'apijipã', 'jatrupi', 'iwari jɨ', 'rijɨ', 'mapɨwã', 'ja zɨ', 'wajɨ', 'japɨ', 'ijɨ', 'wanίʃoni', 'ʧiwɨ', 'jatamuã', 'jaru', 'jahahĩ', 'rɨnĩ vojuã', 'wapɨ', 'matujaa awɨtamiί', 'rɨwã', 'riwά', 'awijã', 'awija', 'wawa', 'mirim wiʃoho', 'pijɨ', 'matujaa', 'manjᴐ', 'jawari', 'wiʃa', 'ijᴐ', 'awuru', 'iwɨ', 'jaa', 'ihasɨ wanί', 'pipi wakɨ ramί', 'pinima iwi ari', 'ija', 'atupija', 'jipa', 'jawari', 'iwahʊ', 'iwaho', 'wirisɨ', 'wararau', 'mawɨ', 'pipija', 'kaiwã', 'kaĩwã', 'jawɨsɨ', 'tawã', 'iwari', 'iwa', 'ɨ jaa', 'ʧiwaɨ', 'kajuã', 'wakɨsi', 'jipaã', 'watoronaã', 'inetaptewa', 'wakɨuramί', 'juri zɨ', 'wakɨuramί', 'awu zɨ', 'ua zɨwa zɨ', 'piʃi jɨ', 'itotãʃi ji', 'amuri taptewa', 'ine tap tewa', 'araʃi jɨ', 'wɨwã', 'jaʃi jɨ', 'miʃᴐ owo', 'mise owᴐ', 'juri zɨ', 'koĩʃi ji', 'wanί', 'wĩʃi jɨ', 'wĩʃi jãsɨ', 'ɲamãrɨ tewa', 'awɨ', 'ʃewɨteapa', 'ʧiwɨ', 'ii jɨ', 'isi zɨ waru', 'meapaʃa jiipa', 'haiwa zɨ', 'hamajanã', 'ahõhõjipa', 'juimã kizi jakisi', 'anawa koro hu', 'japana zɨ', 'ɲowã', 'niwã', 'ketapuwanί', 'awiʃa miʃu nazɨpã', 'awiʃɨ', 'awiʃa mita', 'awiʃi ramʊri', 'no wu hɨna nõwɨ', 'nᴐ wo hɨna', 'ajoa miʃa rʊ', 'jotʊ panã', 'jatari', 'riwɨ jakanũ ɨwã', 'rɨwɨ kari hʊa nĩ', 'awiʃa ru', 'awiʃea tu', 'hɨzi kari awiʃi kari', 'awiɲa nʊ wa ru', 'no wa mɨ ta', 'ajo wi', 'aju wɨ', 'ju ta mita anί', 'aʧuare wuisɨ', 'jasɨ', 'ʃijɨ hina', 'wɨhana ru']
+nb mots VG: 86
+['apiwari', 'aja', 'kajari', 'apɨ rimawᴐ', 'anawa', 'awɨ', 'wajpɨ', 'aja miʃiʃᴐ inί', 'pɨnuwɨ', 'awanέ', 'noji sɨ', 'awanã', 'ijί', 'maiwa', 'ʧuenajã', 'matanawɨ', 'apijipã', 'iwari jɨ', 'rijɨ', 'mapɨwã', 'wajɨ', 'ijɨ', 'ʧiwɨ', 'rɨnĩ vojuã', 'matujaa awɨtamiί', 'rɨwã', 'riwά', 'awijã', 'awija', 'wawa', 'pijɨ', 'matujaa', 'jawari', 'ijᴐ', 'awuru', 'iwɨ', 'pinima iwi ari', 'ija', 'atupija', 'jawari', 'iwahʊ', 'iwaho', 'mawɨ', 'pipija', 'kaiwã', 'kaĩwã', 'jawɨsɨ', 'tawã', 'iwari', 'iwa', 'ʧiwaɨ', 'kajuã', 'inetaptewa', 'awu zɨ', 'ua zɨwa zɨ', 'amuri taptewa', 'ine tap tewa', 'wɨwã', 'miʃᴐ owo', 'mise owᴐ', 'ɲamãrɨ tewa', 'awɨ', 'ʃewɨteapa', 'ʧiwɨ', 'haiwa zɨ', 'hamajanã', 'ahõhõjipa', 'anawa koro hu', 'ɲowã', 'niwã', 'ketapuwanί', 'awiʃa miʃu nazɨpã', 'awiʃɨ', 'awiʃa mita', 'awiʃi ramʊri', 'no wu hɨna nõwɨ', 'ajoa miʃa rʊ', 'riwɨ jakanũ ɨwã', 'rɨwɨ kari hʊa nĩ', 'awiʃa ru', 'awiʃea tu', 'hɨzi kari awiʃi kari', 'awiɲa nʊ wa ru', 'ajo wi', 'aju wɨ', 'ʃijɨ hina']
+nb mots GVV: 17
+['apa zi jaa', 'aketu zi jaa', 'tuʃi ji jaa', 'ɲaru zɨ jaa', 'jaʊʃi', 'juimã', 'rɨnĩ vojuã', 'matujaa awɨtamiί', 'matujaa', 'jaa', 'ɨ jaa', 'ʧiwaɨ', 'kajuã', 'meapaʃa jiipa', 'juimã kizi jakisi', 'ajoa miʃa rʊ', 'aʧuare wuisɨ']
+nb mots VGV: 85
+['apiwari', 'aja', 'kajari', 'apɨ rimawᴐ', 'anawa', 'awɨ', 'aja miʃiʃᴐ inί', 'pɨnuwɨ', 'awanέ', 'noji sɨ', 'awanã', 'ijί', 'maiwa', 'ʧuenajã', 'matanawɨ', 'apijipã', 'iwari jɨ', 'rijɨ', 'mapɨwã', 'wajɨ', 'ijɨ', 'ʧiwɨ', 'rɨnĩ vojuã', 'matujaa awɨtamiί', 'rɨwã', 'riwά', 'awijã', 'awija', 'wawa', 'pijɨ', 'matujaa', 'jawari', 'ijᴐ', 'awuru', 'iwɨ', 'pinima iwi ari', 'ija', 'atupija', 'jawari', 'iwahʊ', 'iwaho', 'mawɨ', 'pipija', 'kaiwã', 'kaĩwã', 'jawɨsɨ', 'tawã', 'iwari', 'iwa', 'ʧiwaɨ', 'kajuã', 'inetaptewa', 'awu zɨ', 'ua zɨwa zɨ', 'amuri taptewa', 'ine tap tewa', 'wɨwã', 'miʃᴐ owo', 'mise owᴐ', 'ɲamãrɨ tewa', 'awɨ', 'ʃewɨteapa', 'ʧiwɨ', 'haiwa zɨ', 'hamajanã', 'ahõhõjipa', 'anawa koro hu', 'ɲowã', 'niwã', 'ketapuwanί', 'awiʃa miʃu nazɨpã', 'awiʃɨ', 'awiʃa mita', 'awiʃi ramʊri', 'no wu hɨna nõwɨ', 'ajoa miʃa rʊ', 'riwɨ jakanũ ɨwã', 'rɨwɨ kari hʊa nĩ', 'awiʃa ru', 'awiʃea tu', 'hɨzi kari awiʃi kari', 'awiɲa nʊ wa ru', 'ajo wi', 'aju wɨ', 'ʃijɨ hina']
+nb mots VVG: 4
+['maiwa', 'kaiwã', 'kaĩwã', 'haiwa zɨ']
+nb mots GVVV: 0
+[]
+nb mots VGVV: 6
+['rɨnĩ vojuã', 'matujaa awɨtamiί', 'matujaa', 'ʧiwaɨ', 'kajuã', 'ajoa miʃa rʊ']
+nb mots VVGV: 4
+['maiwa', 'kaiwã', 'kaĩwã', 'haiwa zɨ']
+nb mots VVVG: 0
+[]
+nb mots GGV: 0
+[]
+nb mots GVG: 9
+['wajpɨ', 'wajɨ', 'awijã', 'awija', 'wawa', 'jawari', 'jawari', 'jawɨsɨ', 'wɨwã']
+nb mots VGG: 0
+[]
+Total mots: 502
+
+Mots sans consonne: 
+Nombre mots: 
+34
+['ua', 'ua', 'ɨ', 'aja', 'awɨ', 'aã', 'oᴐ', 'ɨ', 'uaĩ jĩ', 'ijί', 'wajɨ', 'ijɨ', 'awijã', 'awija', 'uã', 'wawa', 'ijᴐ', 'a', 'iwɨ', 'jaa', 'ija', 'i', 'ɨ', 'ai', 'ai', 'iwa', 'ώ', 'ɨ jaa', 'wɨwã', 'awɨ', 'ii jɨ', 'a', 'ajo wi', 'aju wɨ']
+
+Mots formés seulement de consonnes: 
+Nombre mots: 
+0
+[]
+
+Mots formés seulement de consonnes et glides: 
+Nombre mots: 
+0
+[]
