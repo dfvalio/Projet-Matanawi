@@ -1,0 +1,204 @@
+Voici les paires minimales:
+ihuzɨ ĩhuzɨ i|ĩ
+miʃijɨ piʃijɨ m|p
+ɨzɨ ɨʃɨ z|ʃ
+ɨzɨ ɨsɨ z|s
+mõzeaʃi mõseaʃi z|s
+ãʃi aʃi ã|a
+ãʃi iʃi ã|i
+mɨĩ maĩ ɨ|a
+apɨ api ɨ|i
+apɨ awɨ p|w
+apɨ upɨ a|u
+apɨ opɨ a|o
+apɨ awɨ p|w
+ua ka u|k
+ua uã a|ã
+ua ka u|k
+ua uã a|ã
+ɨ a ɨ|a
+ɨ i ɨ|i
+ɨ ώ ɨ|ώ
+ɨ a ɨ|a
+apɨ api ɨ|i
+apɨ awɨ p|w
+apɨ upɨ a|u
+apɨ opɨ a|o
+apɨ awɨ p|w
+apɨ api ɨ|i
+apɨ awɨ p|w
+apɨ upɨ a|u
+apɨ opɨ a|o
+apɨ awɨ p|w
+wɨsa ʦɨsa w|ʦ
+aja ija a|i
+apɨ api ɨ|i
+apɨ awɨ p|w
+apɨ upɨ a|u
+apɨ opɨ a|o
+apɨ awɨ p|w
+vi pi v|p
+vi ai v|a
+vi ai v|a
+wiʃi wiʃa i|a
+wiʃi ɨiʃi w|ɨ
+pi ai p|a
+pi ai p|a
+api aʃi p|ʃ
+hura tura h|t
+hura mura h|m
+awɨ iwɨ a|i
+parata parita a|i
+parata parɨta a|ɨ
+urumã urumĩ ã|ĩ
+aã uã a|u
+aã mã a|m
+aã ai ã|i
+aã ai ã|i
+wata wawa t|w
+ɨ a ɨ|a
+ɨ i ɨ|i
+ɨ ώ ɨ|ώ
+ɨ a ɨ|a
+urumĩ urumã ĩ|ã
+amanã amana ã|a
+amanã awanã m|w
+papά mapά p|m
+mapάãzɨ mapɨãzɨ ά|ɨ
+awanέ awanã έ|ã
+jazɨ japɨ z|p
+jazɨ jasɨ z|s
+iɲί ijί ɲ|j
+ijί ijɨ ί|ɨ
+ijί ijᴐ ί|ᴐ
+ijί ija ί|a
+aʃi iʃi a|i
+rijɨ pijɨ r|p
+rijɨ iijɨ r|i
+jazɨ japɨ z|p
+jazɨ jasɨ z|s
+upɨ opɨ u|o
+wajɨ wapɨ j|p
+japɨ wapɨ j|w
+japɨ jasɨ p|s
+namɨ namά ɨ|ά
+ijɨ ijᴐ ɨ|ᴐ
+ijɨ iwɨ j|w
+ijɨ ija ɨ|a
+tʊra tura ʊ|u
+tura mura t|m
+mara mura a|u
+mara para m|p
+uamiʃᴐ uamiʃo ᴐ|o
+uhᴐ ihᴐ u|i
+hoto hotᴐ o|ᴐ
+rɨwã wɨwã r|w
+awijã awija ã|a
+uã mã u|m
+pijɨ iijɨ p|i
+mato matu o|u
+mã mĩ ã|ĩ
+jawari jatari w|t
+ijᴐ ihᴐ j|h
+ijᴐ ija ᴐ|a
+a i a|i
+a ɨ a|ɨ
+a ώ a|ώ
+iwɨ iwa ɨ|a
+iwɨ awɨ i|a
+papasi papasɨ i|ɨ
+patari jatari p|j
+ija iwa j|w
+jipa nipa j|n
+jawari jatari w|t
+mamĩ mami ĩ|i
+iwahʊ iwaho ʊ|o
+urukʊta urukuta ʊ|u
+parita parɨta i|ɨ
+iʃo iʃi o|i
+i ɨ i|ɨ
+i ώ i|ώ
+i a i|a
+ʦɨza ʦɨsa z|s
+ɨʃɨ ɨsɨ ʃ|s
+manί uanί m|u
+manί wanί m|w
+kaiwã kaĩwã i|ĩ
+kaĩwã kaĩuã w|u
+ɨ ώ ɨ|ώ
+ɨ a ɨ|a
+ώ a ώ|a
+kaĩuã kajuã ĩ|j
+amʊri amᴐri ʊ|ᴐ
+uanί wanί u|w
+hina hɨna i|ɨ
+otupetaru utupetaru o|u
+huɨ hʊɨ u|ʊ
+
+Paires à analyser en termes de prosodie: 
+apiji apiji
+apɨ apɨ
+apɨ apɨ
+apɨ apɨ
+ua ua
+ɨ ɨ
+ɨ ɨ
+apɨ apɨ
+apɨ apɨ
+apɨ apɨ
+awɨ awɨ
+wakɨsi wakɨsi
+urumã urumã
+ɨ ɨ
+jazɨ jazɨ
+ʧiwɨ ʧiwɨ
+jawari jawari
+a a
+ai ai
+inetaptewa inetaptewa
+wakɨuramί wakɨuramί
+jurizɨ jurizɨ
+kaipazi kaipazi
+
+Le nombre de caractères différens (avec espace) est:
+38
+
+Voici la fréquence de chaque caractère:
+i 285
+h 72
+u 144
+z 66
+ɨ 200
+ĩ 25
+ɲ 13
+a 456
+r 144
+o 67
+ᴐ 31
+t 96
+p 128
+j 83
+k 57
+e 31
+s 49
+ʃ 72
+ũ 14
+ʊ 23
+m 108
+n 90
+ί 22
+έ 2
+õ 8
+ã 68
+ə 8
+w 103
+b 5
+v 3
+g 1
+ʧ 15
+ά 7
+d 1
+ẽ 1
+ʦ 3
+ɳ 1
+ώ 1
